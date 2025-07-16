@@ -1,0 +1,155 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 15px;
+  background-color: #f9f9f9;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+}
+
+.container h1 {
+  color: #9e9191;
+  margin-bottom: 10px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.container hr {
+  margin: 20px 0;
+}
+
+.container h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+ul li {
+  background-color: #fff;
+  margin: 10px 0;
+  padding: 12px 18px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: left;
+}
+
+ul li:hover {
+  background-color: #eef5ff;
+  border-color: #007bff;
+}
+
+.correct {
+  background-color: #d4edda !important;
+  border-color: #28a745 !important;
+  color: #155724 !important;
+}
+
+.wrong {
+  background-color: #f8d7da !important;
+  border-color: #dc3545 !important;
+  color: #721c24 !important;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.index {
+  margin-top: 15px;
+  color: #555;
+  font-size: 14px;
+}
+
+.container h2:last-of-type {
+  color: #222;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: linear-gradient(-45deg, #3e55bd, #723ca9, #6b8dd6, #35595b);
+  background-size: 1800% 1800%;
+  animation: rainbowShift 20s linear infinite;
+  font-family: "Segoe UI", sans-serif;
+}
+
+@keyframes rainbowShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .container {
+    padding: 20px;
+    margin: 20px 10px;
+  }
+
+  ul li {
+    font-size: 14px;
+    padding: 10px 15px;
+  }
+
+  button {
+    width: 100%;
+    margin: 8px 0;
+  }
+}
+
+.quiz-card {
+  width: 100%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: rgba(215, 65, 65, 0.7);
+  border-radius: 20px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  border: 2px solid transparent;
+  position: relative;
+  z-index: 1;
+}
+
+body,
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}

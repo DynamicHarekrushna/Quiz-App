@@ -1,0 +1,173 @@
+/* eslint-disable no-unused-vars */
+export const data = [
+  {
+    question: "Which luxury watch brand is known for the Royal Oak series?",
+    option1: "Patek Philippe",
+    option2: "Rolex",
+    option3: "Audemars Piguet",
+    option4: "Omega",
+    ans: 3,
+  },
+  {
+    question: "Which watch brand is famous for the 'Submariner' model?",
+    option1: "Tag Heuer",
+    option2: "Rolex",
+    option3: "Audemars Piguet",
+    option4: "Longines",
+    ans: 2,
+  },
+  {
+    question: "What brand makes the Nautilus, a luxury sports watch?",
+    option1: "Patek Philippe",
+    option2: "Breitling",
+    option3: "Panerai",
+    option4: "Cartier",
+    ans: 1,
+  },
+  {
+    question:
+      "Which brand is known for extremely high-priced and limited edition models like the RM 56-02 Sapphire?",
+    option1: "Richard Mille",
+    option2: "Omega",
+    option3: "Seiko",
+    option4: "Hublot",
+    ans: 1,
+  },
+  {
+    question: "Which brand made the first wristwatch in history?",
+    option1: "Cartier",
+    option2: "Rolex",
+    option3: "Omega",
+    option4: "Patek Philippe",
+    ans: 4,
+  },
+  {
+    question: "Which brand has the crown logo?",
+    option1: "Rolex",
+    option2: "Audemars Piguet",
+    option3: "Patek Philippe",
+    option4: "Omega",
+    ans: 1,
+  },
+  {
+    question: "Which watch brand is associated with James Bond?",
+    option1: "Breitling",
+    option2: "Omega",
+    option3: "Rolex",
+    option4: "Cartier",
+    ans: 2,
+  },
+  {
+    question: "Which luxury brand makes the Big Bang collection?",
+    option1: "Hublot",
+    option2: "Tag Heuer",
+    option3: "Rolex",
+    option4: "Seiko",
+    ans: 1,
+  },
+  {
+    question: "Which brand produced the Sky-Dweller and Daytona models?",
+    option1: "Omega",
+    option2: "Tag Heuer",
+    option3: "Rolex",
+    option4: "Panerai",
+    ans: 3,
+  },
+  {
+    question:
+      "Which Swiss luxury brand is known for the Grandmaster Chime 6300A, the most expensive wristwatch ever sold?",
+    option1: "Richard Mille",
+    option2: "Audemars Piguet",
+    option3: "Rolex",
+    option4: "Patek Philippe",
+    ans: 4,
+  },
+  {
+    question: "Which brand uses the term 'Haute Horlogerie' in its philosophy?",
+    option1: "Audemars Piguet",
+    option2: "Casio",
+    option3: "Citizen",
+    option4: "Timex",
+    ans: 1,
+  },
+  {
+    question:
+      "Which luxury brand made the 'Tourbillon with Three Gold Bridges'?",
+    option1: "Breguet",
+    option2: "Girard-Perregaux",
+    option3: "Jaeger-LeCoultre",
+    option4: "Montblanc",
+    ans: 2,
+  },
+  {
+    question:
+      "Which of the following watches is often referred to as an 'entry-level luxury' Rolex?",
+    option1: "Daytona",
+    option2: "Datejust",
+    option3: "Sky-Dweller",
+    option4: "Yacht-Master",
+    ans: 2,
+  },
+  {
+    question:
+      "Which luxury brand is known for watches that use sapphire crystal cases?",
+    option1: "Richard Mille",
+    option2: "Omega",
+    option3: "Tissot",
+    option4: "Longines",
+    ans: 1,
+  },
+  {
+    question:
+      "Which watch brand introduced the Co-Axial escapement technology?",
+    option1: "Breitling",
+    option2: "Omega",
+    option3: "Rolex",
+    option4: "Cartier",
+    ans: 2,
+  },
+  {
+    question:
+      "Which brand's watches are tested at the COSC (Contrôle Officiel Suisse des Chronomètres) for chronometer certification?",
+    option1: "Omega",
+    option2: "Tag Heuer",
+    option3: "Rolex",
+    option4: "Both Omega and Rolex",
+    ans: 4,
+  },
+  {
+    question:
+      "Which luxury brand often names models after classical musicians like 'Lange 1' and 'Zeitwerk'?",
+    option1: "A. Lange & Söhne",
+    option2: "Rolex",
+    option3: "Cartier",
+    option4: "Richard Mille",
+    ans: 1,
+  },
+  {
+    question: "Which company produces the Speedmaster Moonwatch?",
+    option1: "Tag Heuer",
+    option2: "Rolex",
+    option3: "Omega",
+    option4: "Patek Philippe",
+    ans: 3,
+  },
+  {
+    question:
+      "Which brand’s motto is 'You never actually own a Patek Philippe'?",
+    option1: "Rolex",
+    option2: "Patek Philippe",
+    option3: "AP",
+    option4: "Hublot",
+    ans: 2,
+  },
+  {
+    question:
+      "Which luxury watch brand originated in 1839 in Geneva, Switzerland?",
+    option1: "Omega",
+    option2: "Audemars Piguet",
+    option3: "Patek Philippe",
+    option4: "Tag Heuer",
+    ans: 3,
+  },
+];
